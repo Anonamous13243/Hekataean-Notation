@@ -1,4 +1,4 @@
-# NOTATION SUMMARY -- SESSION ONE
+# SESSION SUMMARY -- SESSION ONE
 Notation in progress
 ##
 Geniology
