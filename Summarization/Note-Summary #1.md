@@ -1,3 +1,3 @@
 # NOTATION SUMMARY -- SESSION ONE
 ##
-  <u>Geniology</U>
+  <u>Geniology
