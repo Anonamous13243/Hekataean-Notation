@@ -1,3 +1,4 @@
 # NOTATION SUMMARY -- SESSION ONE
 ##
-  <u>Geniology
+  Geniology
+#
